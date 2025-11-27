@@ -18,4 +18,4 @@ Fetch from SQLite: Tap the "SQLite Db" icon in the toolbar to load data from the
 Delete a record: Tap the trash can icon next to a person's details to delete that record from the list and the local database.
 Screenshots
 
-![image alt]()
+![image alt](https://github.com/mohansivaraot/MAD_23012531058_PRACTICAL7/blob/5ff615d2a8d9d90137235b18ccb415c901d643a2/Screenshot%202025-11-27%20101746.png)
